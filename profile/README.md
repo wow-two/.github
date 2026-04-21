@@ -1,12 +1,3 @@
-# Way of Web 2.0
+# wow-two
 
-## Contents
-
-### Wow 2.0 Contents
-
-- [backned](docs/wow2content/backend.md)
-
-### Wow 2.0 Roadmap
-
-### Other materials
-
+Developer experience ecosystem for production apps — libraries, tools, and standards across .NET and React.
